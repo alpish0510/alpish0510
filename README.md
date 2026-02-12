@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on eROSITA observations of galaxy cluster A1060.<br>🌱 I’m currently learning ML algorithms and methods used in astrophysical surveys.<br>
+🔭 I’m currently working on probing the thermodynamics of Galaxy cluster outskirts using eROSITA, Planck and SPT.<br>🌱 I’m currently learning ML algorithms and methods used in astrophysical surveys.<br>
 
 
 ## 🌐 Socials:
