@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628,0d2050,1a3a6e&height=160&section=header&text=Alpish%20Srivastava&fontSize=38&fontColor=7eb8ff&fontAlignY=40&desc=Astrophysicist%20%C2%B7%20Data%20Scientist%20%C2%B7%20ML%20Researcher&descColor=4a7ab5&descSize=15&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628,0d2050,1a3a6e&height=160&section=header&text=Alpish%20Srivastava&fontSize=38&fontColor=7eb8ff&fontAlignY=40&desc=Astrophysicist%20%C2%B7%20Data%20Scientist&descColor=4a7ab5&descSize=15&descAlignY=62&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -17,8 +17,8 @@
 ```python
 researcher = {
     "name"       : "Alpish Srivastava",
-    "focus"      : "Galaxy cluster thermodynamics — ICM outskirts",
-    "instruments": ["eROSITA (X-ray)", "Planck (CMB/tSZ)", "SPT (mm-wave)"],
+    "focus"      : "Intracluster medium thermodynamics - Galaxy cluster outskirts",
+    "instruments": ["eROSITA (X-ray)", "Planck (CMB/tSZ)", "SPT (CMB/tSZ)"],
     "learning"   : "ML algorithms & methods for astrophysical surveys",
     "wavelengths": ["0.1–10 keV", "217 GHz", "150 GHz"],
     "status"     : "🟢 actively researching",
@@ -30,7 +30,7 @@ researcher = {
 ### `// active research`
 
 **🌌 Thermodynamics of Galaxy Cluster Outskirts**  
-Multi-wavelength analysis of intracluster medium (ICM) thermodynamics at cluster peripheries — probing entropy, pressure, and density profiles using X-ray surface brightness (eROSITA), Sunyaev–Zel'dovich effect (Planck, SPT), and cross-correlation techniques.
+Multi-wavelength analysis of intracluster medium (ICM) thermodynamics at cluster outskirts, probing entropy, pressure, and density profiles using X-ray surface brightness (eROSITA), Sunyaev–Zel'dovich effect (Planck, SPT), and cross-correlation techniques.
 
 **🤖 Machine Learning in Astrophysical Surveys**  
 Applying supervised and unsupervised ML methods — classification, regression, anomaly detection — to large-scale astronomical datasets and survey pipelines.
