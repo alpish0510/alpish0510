@@ -15,19 +15,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=800&color=5A9EFF&center=true&vCenter=true&width=700&lines=Probing+the+thermodynamics+of+galaxy+cluster+outskirts;eROSITA+%7C+Planck+%7C+SPT+%7C+XMM-Newton+%7C+Chandra;X-ray+%2B+Sunyaev%E2%80%93Zel%27dovich+multiwavelength+reconstruction;PhD+Candidate+%E2%80%94+Univ.+of+Rome+Tor+Vergata" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<!-- ── SOCIALS ──────────────────────────────────────────────── -->
-<a href="https://www.linkedin.com/in/alpish-srivastava-a5367544/">
-  <img src="https://img.shields.io/badge/LinkedIn-060e22?style=for-the-badge&logo=linkedin&logoColor=7eb8ff" />
-</a>
-&nbsp;
-<a href="mailto:alpish.srivastava@roma2.infn.it">
-  <img src="https://img.shields.io/badge/Email-060e22?style=for-the-badge&logo=gmail&logoColor=7eb8ff" />
-</a>
-&nbsp;
-</div>
-
 ---
 
 <!-- ── ABOUT ─────────────────────────────────────────────────── -->
