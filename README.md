@@ -131,10 +131,6 @@ Also: JupyterHub, C Shell, FITS Liberator.
 *"The universe is not only stranger than we suppose, but stranger than we can suppose."*  
 — J.B.S. Haldane
 
-<br/>
-
-<sub><code>RA 00h 00m · DEC +00° 00' · EPOCH J2026.0</code></sub>
-
 </div>
 
 <!-- Footer wave -->
