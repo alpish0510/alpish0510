@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ── HERO BANNER ──────────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0a0f1e,0d1f42,122860,1a3a6e,0d2050&height=220&section=header&text=Alpish%20Srivastava&fontSize=46&fontColor=a8ccff&fontAlignY=45&desc=Astrophysicist%20%E2%80%A2%20Data%20Scientist&descColor=4a7ab5&descSize=16&descAlignY=65&animation=fadeIn&stroke=1a3a6e&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=060e22,0d1f42,1a3a6e&height=220&section=header&text=Alpish%20Srivastava&fontSize=46&fontColor=a8ccff&fontAlignY=45&desc=Astrophysicist%20%E2%80%A2%20Data%20Scientist&descColor=4a7ab5&descSize=16&descAlignY=65&animation=twinkling" width="100%" />
 
 <br/>
 
