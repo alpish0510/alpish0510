@@ -44,44 +44,6 @@ Broad interests: galaxy cluster surveys, dark-matter–driven large-scale struct
 
 ---
 
-<!-- ── ACTIVE RESEARCH ────────────────────────────────────────── -->
-
-### `// active research`
-
-**🌌 Thermodynamics of Galaxy Cluster Outskirts**  
-Multiwavelength analysis of intracluster medium (ICM) thermodynamics at cluster outskirts, reconstructing temperature and entropy profiles from pressure, and density profiles derived using X-ray observations (eROSITA) and the Sunyaev–Zel'dovich (SZ) effect (Planck, SPT).
-
-**🤖 Machine Learning in Astrophysical Surveys**  
-Applying supervised and unsupervised ML methods: classification, regression, anomaly detection, to large-scale astronomical datasets and survey pipelines.
-
----
-
-<!-- ── BACKGROUND ─────────────────────────────────────────────── -->
-
-### `// background`
-
-Before my PhD, I completed an M.Sc. at the Argelander Institute for Astronomy (Bonn), including a lead-author X-ray study of the Hydra I cluster. I've also contributed to projects involving CMB maximum-likelihood mapmaker testing, tSZ/rSZ spectral stacking, XMM imaging analysis, and radio relic studies.
-
----
-
-<!-- ── INSTRUMENTS ─────────────────────────────────────────────── -->
-
-### `// instruments & observatories`
-
-<div align="center">
-
-| Observatory | Probe | Wavelength / Band |
-|:---:|:---:|:---:|
-| **Chandra** | X-ray imaging / spectroscopy | `0.1 – 10 keV` |
-| **XMM-Newton** | X-ray imaging / spectroscopy | `0.1 – 12 keV` |
-| **eROSITA** | X-ray surface brightness | `0.2 – 10 keV` |
-| **Planck** | CMB / tSZ | `30 – 857 GHz` |
-| **SPT** | CMB / tSZ | `95, 150, 220 GHz` |
-
-</div>
-
----
-
 <!-- ── TECH STACK ──────────────────────────────────────────────── -->
 
 ### `// tech stack`
