@@ -203,4 +203,4 @@ Also: IDL
 </div>
 
 <!-- ── FOOTER WAVE ─────────────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0a0f1e,0d1f42,122860,1a3a6e,0d2050&height=100&section=footer&animation=fadeIn&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0f1e,0d1f42,122860&height=100&section=footer&animation=fadeIn" width="100%" />
