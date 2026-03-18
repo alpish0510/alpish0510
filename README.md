@@ -62,14 +62,6 @@ Before my PhD, I completed an M.Sc. at the Argelander Institute for Astronomy (B
 
 ### `// tech stack`
 
-**Research interests**
-
-Galaxy clusters, large-scale structure, observational cosmology, X-ray and radio astronomy.
-
-**Techniques & methods**
-
-Multiwavelength data reduction, X-ray imaging & spectroscopy, Bayesian inference, Monte Carlo methods, cosmological simulations, code development, machine learning.
-
 **Programming languages**
 
 ![Python](https://img.shields.io/badge/Python-0d2050?style=flat-square&logo=python&logoColor=7eb8ff)
@@ -103,14 +95,6 @@ Also: IDL.
 
 Also: JupyterHub, C Shell, FITS Liberator.
 
-**Operating systems**
-
-macOS, Linux, Windows.
-
-**Spoken languages**
-
-Hindi (native), English (native), German (elementary).
-
 ---
 
 ### `// github stats`
@@ -135,13 +119,10 @@ Hindi (native), English (native), German (elementary).
   <img src="https://img.shields.io/badge/LinkedIn-0d2050?style=flat-square&logo=linkedin&logoColor=7eb8ff" />
 </a>
 &nbsp;
-<a href="mailto:alpish.sri@gmail.com">
+<a href="mailto:alpish.srivastava@roma2.infn.it">
   <img src="https://img.shields.io/badge/Email-0d2050?style=flat-square&logo=gmail&logoColor=7eb8ff" />
 </a>
 &nbsp;
-<a href="https://visitcount.itsvg.in/api?id=alpish0510&icon=0&color=6">
-  <img src="https://visitcount.itsvg.in/api?id=alpish0510&icon=0&color=6" />
-</a>
 
 ---
 
