@@ -50,7 +50,7 @@ Broad interests: galaxy cluster surveys, dark-matter–driven large-scale struct
 Multiwavelength analysis of intracluster medium (ICM) thermodynamics at cluster outskirts, reconstructing temperature and entropy profiles from pressure, and density profiles derived using X-ray observations (eROSITA) and the Sunyaev–Zel'dovich (SZ) effect (Planck, SPT).
 
 **🤖 Machine Learning in Astrophysical Surveys**  
-Applying supervised and unsupervised ML methods — classification, regression, anomaly detection — to large-scale astronomical datasets and survey pipelines.
+Applying supervised and unsupervised ML methods: classification, regression, anomaly detection, to large-scale astronomical datasets and survey pipelines.
 
 ---
 
@@ -173,8 +173,6 @@ Also: IDL
 <img src="https://nirzak-streak-stats.vercel.app/?user=alpish0510&theme=transparent&hide_border=true&ring=5a9eff&fire=f0b84a&currStreakLabel=5a9eff&sideLabels=8fa8c8&dates=4a6888&currStreakNum=a8cef0&sideNums=7eb8ff&background=00000000" />
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alpish0510&bg_color=060e22&color=5a9eff&line=1a3a6e&point=7eb8ff&area=true&area_color=0d2050&hide_border=true&title_color=5a9eff" width="95%" />
 
 </div>
 
