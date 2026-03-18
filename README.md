@@ -1,12 +1,11 @@
 <!-- ============================================================
      ALPISH SRIVASTAVA — GitHub Profile README
-     Deep-space aesthetic for astrophysicist & data scientist
      ============================================================ -->
 
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628,0d2050,1a3a6e&height=160&section=header&text=Alpish%20Srivastava&fontSize=38&fontColor=7eb8ff&fontAlignY=40&desc=Astrophysicist%20%C2%B7%20Data%20Scientist&descColor=4a7ab5&descSize=15&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628,0d2050,1a3a6e&height=160&section=header&text=Alpish%20Srivastava&fontSize=38&fontColor=7eb8ff&fontAlignY=40&desc=PhD%20Candidate%20%C2%B7%20Astrophysics%20%C2%B7%20Data%20Science&descColor=4a7ab5&descSize=15&descAlignY=62&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -17,23 +16,36 @@
 ```python
 researcher = {
     "name"       : "Alpish Srivastava",
-    "focus"      : "Intracluster medium thermodynamics - Galaxy cluster outskirts",
-    "instruments": ["eROSITA (X-ray)", "Planck (CMB/tSZ)", "SPT (CMB/tSZ)"],
-    "learning"   : "ML algorithms & methods for astrophysical surveys",
-    "wavelengths": ["0.1–10 keV", "217 GHz", "150 GHz"],
+    "role"       : "PhD candidate in Astrophysics — Univ. of Rome Tor Vergata",
+    "supervisors": ["Prof. Pasquale Mazzotta", "Prof. Hervé Bourdin"],
+    "focus"      : "ICM thermodynamics in galaxy cluster outskirts & cosmological structure formation",
+    "approach"   : "X-ray + sub-mm (SZ) multiwavelength reconstruction of T / entropy / pressure profiles",
+    "missions"   : ["Chandra", "XMM-Newton", "eROSITA", "Planck", "SPT"],
+    "toolkit"    : ["Python", "IDL", "Bayesian inference", "Monte Carlo", "ML"],
+    "workflow"   : "Astrophysical data-analysis pipelines & survey-scale datasets",
     "status"     : "🟢 actively researching",
 }
 ```
+
+I study the thermal and non-thermal properties of the intracluster medium (ICM) using multi-mission datasets. My current work focuses on the outskirts of galaxy clusters, where multiwavelength constraints help test baryon thermalization and the physical processes shaping cluster atmospheres at large radii.
+
+Broad interests: galaxy cluster surveys, dark-matter–driven large-scale structure formation, AGN feedback, and non-thermal processes.
 
 ---
 
 ### `// active research`
 
 **🌌 Thermodynamics of Galaxy Cluster Outskirts**  
-Multi-wavelength analysis of intracluster medium (ICM) thermodynamics at cluster outskirts, probing entropy, pressure, and density profiles using X-ray surface brightness (eROSITA), Sunyaev–Zel'dovich effect (Planck, SPT), and cross-correlation techniques.
+Multiwavelength analysis of intracluster medium (ICM) thermodynamics at cluster outskirts — reconstructing temperature and entropy profiles and probing entropy, pressure, and density structure using X-ray observations (Chandra, XMM-Newton, eROSITA) and the Sunyaev–Zel'dovich (SZ) effect (Planck, SPT), including cross-correlation approaches.
 
 **🤖 Machine Learning in Astrophysical Surveys**  
 Applying supervised and unsupervised ML methods — classification, regression, anomaly detection — to large-scale astronomical datasets and survey pipelines.
+
+---
+
+### `// background`
+
+Before my PhD, I completed an M.Sc. at the Argelander Institute for Astronomy (Bonn), including a lead-author X-ray study of the Hydra I cluster. I’ve also contributed to projects involving CMB maximum-likelihood mapmaker testing, tSZ/rSZ spectral stacking, XMM imaging analysis, and radio relic studies.
 
 ---
 
@@ -41,6 +53,8 @@ Applying supervised and unsupervised ML methods — classification, regression, 
 
 | Observatory | Probe | Wavelength / Band |
 |---|---|---|
+| **Chandra** | X-ray imaging / spectroscopy | 0.1 – 10 keV |
+| **XMM-Newton** | X-ray imaging / spectroscopy | 0.1 – 12 keV |
 | **eROSITA** | X-ray surface brightness | 0.2 – 10 keV |
 | **Planck** | CMB / thermal SZ | 30 – 857 GHz |
 | **SPT** | Millimetre-wave / tSZ | 95, 150, 220 GHz |
