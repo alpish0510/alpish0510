@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ── HERO BANNER ──────────────────────────────────────────── -->
-<img src="https://raw.githubusercontent.com/alpish0510/alpish0510/main/lss_evolution_hq.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/alpish0510/alpish0510/main/lss_evolution_hq.gif" width="50%" />
 <sub>Simulation: A. Kravtsov (U. Chicago) & A. Klypin (NMSU) · NCSA</sub>
 <br/>
 
