@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628,0d2050,1a3a6e&height=160&section=header&text=Alpish%20Srivastava&fontSize=38&fontColor=7eb8ff&fontAlignY=40&desc=PhD%20Candidate%20%C2%B7%20Astrophysics%20%C2%B7%20Data%20Science&descColor=4a7ab5&descSize=15&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628,0d2050,1a3a6e&height=160&section=header&text=Alpish%20Srivastava&fontSize=38&fontColor=7eb8ff&fontAlignY=40&desc=Astrophysicist%20%C2%B7%20Data%20Scientist&descColor=4a7ab5&descSize=15&descAlignY=62&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -16,12 +16,11 @@
 ```python
 researcher = {
     "name"       : "Alpish Srivastava",
-    "role"       : "PhD candidate in Astrophysics — Univ. of Rome Tor Vergata",
-    "supervisors": ["Prof. Pasquale Mazzotta", "Prof. Hervé Bourdin"],
+    "role"       : "PhD candidate in Astrophysics, Univ. of Rome Tor Vergata",
     "focus"      : "ICM thermodynamics in galaxy cluster outskirts & cosmological structure formation",
-    "approach"   : "X-ray + sub-mm (SZ) multiwavelength reconstruction of T / entropy / pressure profiles",
+    "approach"   : "X-ray + sub-mm (SZ) multiwavelength reconstruction of thermodynamic profiles",
     "missions"   : ["Chandra", "XMM-Newton", "eROSITA", "Planck", "SPT"],
-    "toolkit"    : ["Python", "IDL", "Bayesian inference", "Monte Carlo", "ML"],
+    "toolkit"    : ["Python", "IDL", "Bayesian inference", "Monte Carlo methods", "ML"],
     "workflow"   : "Astrophysical data-analysis pipelines & survey-scale datasets",
     "status"     : "🟢 actively researching",
 }
@@ -36,7 +35,7 @@ Broad interests: galaxy cluster surveys, dark-matter–driven large-scale struct
 ### `// active research`
 
 **🌌 Thermodynamics of Galaxy Cluster Outskirts**  
-Multiwavelength analysis of intracluster medium (ICM) thermodynamics at cluster outskirts — reconstructing temperature and entropy profiles and probing entropy, pressure, and density structure using X-ray observations (Chandra, XMM-Newton, eROSITA) and the Sunyaev–Zel'dovich (SZ) effect (Planck, SPT), including cross-correlation approaches.
+Multiwavelength analysis of intracluster medium (ICM) thermodynamics at cluster outskirts, reconstructing temperature and entropy profiles from pressure, and density profiles derived using X-ray observations (eROSITA) and the Sunyaev–Zel'dovich (SZ) effect (Planck, SPT).
 
 **🤖 Machine Learning in Astrophysical Surveys**  
 Applying supervised and unsupervised ML methods — classification, regression, anomaly detection — to large-scale astronomical datasets and survey pipelines.
@@ -56,43 +55,61 @@ Before my PhD, I completed an M.Sc. at the Argelander Institute for Astronomy (B
 | **Chandra** | X-ray imaging / spectroscopy | 0.1 – 10 keV |
 | **XMM-Newton** | X-ray imaging / spectroscopy | 0.1 – 12 keV |
 | **eROSITA** | X-ray surface brightness | 0.2 – 10 keV |
-| **Planck** | CMB / thermal SZ | 30 – 857 GHz |
-| **SPT** | Millimetre-wave / tSZ | 95, 150, 220 GHz |
+| **Planck** | CMB / tSZ | 30 – 857 GHz |
+| **SPT** | CMB / tSZ | 95, 150, 220 GHz |
 
 ---
 
 ### `// tech stack`
 
-**Languages & Scripting**
+**Research interests**
+
+Galaxy clusters, large-scale structure, observational cosmology, X-ray and radio astronomy.
+
+**Techniques & methods**
+
+Multiwavelength data reduction, X-ray imaging & spectroscopy, Bayesian inference, Monte Carlo methods, cosmological simulations, code development, machine learning.
+
+**Programming languages**
 
 ![Python](https://img.shields.io/badge/Python-0d2050?style=flat-square&logo=python&logoColor=7eb8ff)
-![Bash](https://img.shields.io/badge/Bash-0d2050?style=flat-square&logo=gnu-bash&logoColor=7eb8ff)
-![LaTeX](https://img.shields.io/badge/LaTeX-0d2050?style=flat-square&logo=latex&logoColor=7eb8ff)
+![C](https://img.shields.io/badge/C-0d2050?style=flat-square&logo=c&logoColor=7eb8ff)
+![C++](https://img.shields.io/badge/C%2B%2B-0d2050?style=flat-square&logo=c%2B%2B&logoColor=7eb8ff)
+![Java](https://img.shields.io/badge/Java-0d2050?style=flat-square&logo=openjdk&logoColor=7eb8ff)
 ![HTML5](https://img.shields.io/badge/HTML5-0d2050?style=flat-square&logo=html5&logoColor=7eb8ff)
-![MySQL](https://img.shields.io/badge/MySQL-0d2050?style=flat-square&logo=mysql&logoColor=7eb8ff)
 
-**Scientific Computing & Visualisation**
+Also: IDL.
 
-![NumPy](https://img.shields.io/badge/NumPy-0d2050?style=flat-square&logo=numpy&logoColor=5ddbc8)
-![SciPy](https://img.shields.io/badge/SciPy-0d2050?style=flat-square&logo=scipy&logoColor=5ddbc8)
-![Pandas](https://img.shields.io/badge/Pandas-0d2050?style=flat-square&logo=pandas&logoColor=5ddbc8)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d2050?style=flat-square&logo=matplotlib&logoColor=5ddbc8)
-![Plotly](https://img.shields.io/badge/Plotly-0d2050?style=flat-square&logo=plotly&logoColor=5ddbc8)
+**Key packages**
 
-**Machine Learning**
+`numpy`, `scipy`, `astropy`, `matplotlib`, `emcee`, `healpy`, `reproject`, `pyproffit`, `MLX`, `PyTorch`, `TensorFlow`, `RayTune`.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0d2050?style=flat-square&logo=pytorch&logoColor=f0b84a)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d2050?style=flat-square&logo=tensorflow&logoColor=f0b84a)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d2050?style=flat-square&logo=scikit-learn&logoColor=f0b84a)
+**Data analysis software & simulations**
 
-**Tooling & Workflow**
+`SExtractor`, `HEASOFT`, `XSPEC`, `eSASS`, `CIAO`, `XMM-SAS`, `ds9`, `sherpa`, `TOPCAT`, `Astrometry.net`, `PySM3`, `IllustrisTNG`.
+
+**Tooling & workflow**
 
 ![Git](https://img.shields.io/badge/Git-0d2050?style=flat-square&logo=git&logoColor=7eb8ff)
 ![GitHub](https://img.shields.io/badge/GitHub-0d2050?style=flat-square&logo=github&logoColor=7eb8ff)
 ![GitLab](https://img.shields.io/badge/GitLab-0d2050?style=flat-square&logo=gitlab&logoColor=7eb8ff)
 ![Anaconda](https://img.shields.io/badge/Anaconda-0d2050?style=flat-square&logo=anaconda&logoColor=7eb8ff)
-![Notion](https://img.shields.io/badge/Notion-0d2050?style=flat-square&logo=notion&logoColor=7eb8ff)
+![Bash](https://img.shields.io/badge/Bash-0d2050?style=flat-square&logo=gnu-bash&logoColor=7eb8ff)
+![LaTeX](https://img.shields.io/badge/LaTeX-0d2050?style=flat-square&logo=latex&logoColor=7eb8ff)
+![MySQL](https://img.shields.io/badge/MySQL-0d2050?style=flat-square&logo=mysql&logoColor=7eb8ff)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d2050?style=flat-square&logo=jupyter&logoColor=7eb8ff)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-0d2050?style=flat-square&logo=visualstudiocode&logoColor=7eb8ff)
 ![GIMP](https://img.shields.io/badge/GIMP-0d2050?style=flat-square&logo=gimp&logoColor=7eb8ff)
+
+Also: JupyterHub, C Shell, FITS Liberator.
+
+**Operating systems**
+
+macOS, Linux, Windows.
+
+**Spoken languages**
+
+Hindi (native), English (native), German (elementary).
 
 ---
 
