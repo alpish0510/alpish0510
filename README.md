@@ -1,6 +1,5 @@
 <!-- ============================================================
      ALPISH SRIVASTAVA — GitHub Profile README
-     Cosmology-themed · Deep-field aesthetic
      ============================================================ -->
 
 <div align="center">
