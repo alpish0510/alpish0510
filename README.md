@@ -184,8 +184,8 @@ Also: IDL
 
 <br/>
 
-> *"The universe is not only stranger than we suppose, but stranger than we can suppose."*  
-> — J.B.S. Haldane
+> *"All models are wrong, but some are useful."*  
+> — George Box
 
 </div>
 
