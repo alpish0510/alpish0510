@@ -191,24 +191,6 @@ Also: IDL
 
 ---
 
-<!-- ── CONTACT ─────────────────────────────────────────────────── -->
-
-### `// contact`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/alpish-srivastava-a5367544/">
-  <img src="https://img.shields.io/badge/LinkedIn-060e22?style=for-the-badge&logo=linkedin&logoColor=7eb8ff" />
-</a>
-&nbsp;
-<a href="mailto:alpish.srivastava@roma2.infn.it">
-  <img src="https://img.shields.io/badge/Email-060e22?style=for-the-badge&logo=gmail&logoColor=7eb8ff" />
-</a>
-
-</div>
-
----
-
 <!-- ── QUOTE + FOOTER ──────────────────────────────────────────── -->
 
 <div align="center">
@@ -217,12 +199,6 @@ Also: IDL
 
 > *"The universe is not only stranger than we suppose, but stranger than we can suppose."*  
 > — J.B.S. Haldane
-
-<br/>
-
-<sub><code>RA 00h 00m · DEC +00° 00' · EPOCH J2026.0 · z ≈ 0</code></sub>
-
-<br/><br/>
 
 </div>
 
