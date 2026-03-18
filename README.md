@@ -26,10 +26,6 @@
   <img src="https://img.shields.io/badge/Email-060e22?style=for-the-badge&logo=gmail&logoColor=7eb8ff" />
 </a>
 &nbsp;
-<a href="https://visitcount.itsvg.in/api?id=alpish0510&icon=6&color=9">
-  <img src="https://visitcount.itsvg.in/api?id=alpish0510&icon=6&color=9" />
-</a>
-
 </div>
 
 ---
