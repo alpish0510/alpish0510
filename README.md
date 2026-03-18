@@ -15,6 +15,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=800&color=5A9EFF&center=true&vCenter=true&width=700&lines=Probing+the+thermodynamics+of+galaxy+cluster+outskirts;eROSITA+%7C+Planck+%7C+SPT+%7C+XMM-Newton+%7C+Chandra;X-ray+%2B+Sunyaev%E2%80%93Zel%27dovich+multiwavelength+reconstruction;PhD+Candidate+%E2%80%94+Univ.+of+Rome+Tor+Vergata" alt="Typing SVG" />
 </a>
 
+</div>
+
 ---
 
 <!-- ── ABOUT ─────────────────────────────────────────────────── -->
