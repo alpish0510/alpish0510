@@ -127,12 +127,8 @@ Also: IDL
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alpish0510&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=5a9eff&text_color=8fa8c8&icon_color=4a7ab5&bg_color=00000000" />
-&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpish0510&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=5a9eff&text_color=8fa8c8&bg_color=00000000" />
-
-<br/>
-
+&nbsp;
 <img src="https://nirzak-streak-stats.vercel.app/?user=alpish0510&theme=transparent&hide_border=true&ring=5a9eff&fire=f0b84a&currStreakLabel=5a9eff&sideLabels=8fa8c8&dates=4a6888&currStreakNum=a8cef0&sideNums=7eb8ff&background=00000000" />
 
 <br/>
