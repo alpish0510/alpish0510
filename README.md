@@ -39,7 +39,7 @@ researcher = {
 
 I study the thermal and non-thermal properties of the intracluster medium (ICM) using multi-mission datasets. My current work focuses on the outskirts of galaxy clusters, where multiwavelength constraints help test baryon thermalization and the physical processes shaping cluster atmospheres at large radii.
 
-Broad interests: galaxy cluster surveys, dark-matter–driven large-scale structure formation, AGN feedback, and non-thermal processes.
+Broad interests: galaxy cluster surveys, dark-matter driven large-scale structure formation, AGN feedback, and non-thermal processes.
 
 ---
 
